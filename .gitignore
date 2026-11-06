@@ -1,0 +1,13 @@
+# IDE folders
+.idea/
+.vscode/
+
+# Build directories and compiled files
+build/
+cmake-build-*/
+*.so
+*.pyd
+
+# Python caches
+__pycache__/
+*.pyc
