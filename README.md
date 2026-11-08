@@ -34,4 +34,6 @@ command = controller.run(target value, current value) #inside the physics loop
 #clean memory
 controller.reset()
 ```
+
+- After running the testing script, the data will be outputted into a .csv file and the dataGrapher.py can be used to graph the output.
   
